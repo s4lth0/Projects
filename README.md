@@ -1,3 +1,3 @@
 # Projects
 
-Project based learning for Python & R
+Projects in Python, R and Excel
